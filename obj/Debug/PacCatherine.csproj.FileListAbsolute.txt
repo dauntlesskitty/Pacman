@@ -1,0 +1,9 @@
+C:\Users\User M\Desktop\.net stuff\PacCatherine\PacCatherine\bin\Debug\PacCatherine.exe.config
+C:\Users\User M\Desktop\.net stuff\PacCatherine\PacCatherine\bin\Debug\PacCatherine.exe
+C:\Users\User M\Desktop\.net stuff\PacCatherine\PacCatherine\bin\Debug\PacCatherine.pdb
+C:\Users\User M\Desktop\.net stuff\PacCatherine\PacCatherine\obj\Debug\PacCatherine.csprojAssemblyReference.cache
+C:\Users\User M\Desktop\.net stuff\PacCatherine\PacCatherine\obj\Debug\PacCatherine.Properties.Resources.resources
+C:\Users\User M\Desktop\.net stuff\PacCatherine\PacCatherine\obj\Debug\PacCatherine.csproj.GenerateResource.cache
+C:\Users\User M\Desktop\.net stuff\PacCatherine\PacCatherine\obj\Debug\PacCatherine.csproj.CoreCompileInputs.cache
+C:\Users\User M\Desktop\.net stuff\PacCatherine\PacCatherine\obj\Debug\PacCatherine.exe
+C:\Users\User M\Desktop\.net stuff\PacCatherine\PacCatherine\obj\Debug\PacCatherine.pdb
